@@ -28,3 +28,6 @@ output/
 # IDE
 .vscode/
 .idea/
+
+*.duckdb
+*.duckdb.wal
